@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-android/0.20.7/e12fcefbbefd5a9c50585e839449117209128ddf/rxjava-android-0.20.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e12fcefbbefd5a9c50585e839449117209128ddf">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/rxjava-android-0.20.7-9df623b32bb614407bc618c7ac7b61b127049306.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/javax.inject-1-5a8209e2d96e97544aefa0cdda7593572b9ac735.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-7fca2021a43c9e8efb16d3e3961edf0df5277240.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-c659ab74150540ae861e85fc2b194abcc9e6d826.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-0b9b6c68ad1f60083821d8ff1a2427d3ddd2f692.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/gson-2.3.1-018fee63b0fe6b2421703ce6cdb81a1fc20f05cd.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/android-query-0.25.9-97db353bad61a40f3420c6beedbe379387ba7782.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-cd0c6f5bf48ac9ea5287427374ddfc510bb2130f.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/library-1.0.15-baf5ecfa600a499c955e9a9a07b4b12994114abd.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="956a7969705640c8790b983aaa7ff805dff80cf6">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-a6157ddd5b99462431528d52a7043ff3580aa290.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-4028ebec4f35b18a9df232023e6f992229c13e66.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6563556d6a08a7864991a7ba00ee39b747027777.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-bb8879d6ce20008ac279c08bd10e58a511d403ce.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/mobile_grocery_quiz/DigiJedi/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4625101179cdb2f1297cf3170ab79b87bce54ddc">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-ca97274cb4811a5e15a8f701263c747388390392.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/library-2.4.0-ce9a20f3f3de7e5dddca40f859b23092be638414.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/okio-1.4.0-ecc96d9565ffb3db1e495bf42f53ffa5f3eacd37.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-cd84d563198e137ae6191f13384353f176658029.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7eb126039737b3ada03141cba019d2c385cceca8">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-28715a2c2671b6280034439d356cee4393964a9d.jar" />
+    </item>
+    <item
+        jar="/home/antonio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a18ccb840c15c53496d541d5302863fea592b314.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c4334f20001e3ceaa00b203290961224aca8744f">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-67e1818b0da35f3a7be13d16dd02104544c37c0c.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-core/0.20.7/79abf98a7acac3ffb7fec527847accf23de02bdd/rxjava-core-0.20.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79abf98a7acac3ffb7fec527847accf23de02bdd">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/rxjava-core-0.20.7-95a1c887f3ee64580221e473b45eadbb4009b64a.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-162769939c3f9898de9a9d96159de18e2f582254.jar" />
+    </item>
+    <item
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-ea8dcda4626d839c26ea3ab3cd7f7b54931d92d2.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a31fd4d68ac17ad1988f4b44eed1f69327315a55">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-674274e7493223ebd122ccb6c332311692b82e53.jar" />
+    </item>
+    <item
+        jar="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/antonio/android_code/mobile_grocery_quiz/app/build/intermediates/pre-dexed/debug/classes-ca1dce6be837b69a9b5ccee4e6977a5dad442625.jar" />
+    </item>
+
+</items>

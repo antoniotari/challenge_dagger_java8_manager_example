@@ -20,10 +20,16 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import javax.inject.Named;
 import javax.inject.Singleton;
 
 import dagger.Module;
 import dagger.Provides;
+import rx.Observable;
+import rx.Observable.OnSubscribe;
+import rx.Subscriber;
+import rx.android.schedulers.AndroidSchedulers;
+import rx.schedulers.Schedulers;
 
 /**
  * Created by anthony on 9/19/15.
@@ -74,6 +80,31 @@ public class QuizModule {
             e.printStackTrace();
         }
         return questions;
+    }
+
+    @Provides @Singleton @Named("questions")
+    rx.Observable<Questions> provideQuestionsObservable(@ForApplication Context context){
+        return Observable.create(new OnSubscribe<Questions>() {
+            @Override
+            public void call(final Subscriber<? super Questions> subscriber) {
+                try {
+                    InputStream inputStream = context.getAssets().open("zquestions.json");
+                    InputStreamReader reader = new InputStreamReader(inputStream);
+                    BufferedReader br = new BufferedReader(reader);
+                    String line;
+                    StringBuilder sb = new StringBuilder();
+                    while ((line = br.readLine()) != null) {
+                        sb.append(line);
+                    }
+                    subscriber.onNext(Questions.questionsFactory(sb.toString()));
+                } catch (IOException | JSONException e) {
+                    e.printStackTrace();
+                    subscriber.onError(e);
+                }
+                subscriber.onCompleted();
+            }
+        }).subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread());
     }
 
     @Provides @Singleton

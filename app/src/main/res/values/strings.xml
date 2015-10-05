@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grocery Quiz</string>
+    <string name="filter_title_playshare">Quiz</string>
+    <string name="menu_next">Next</string>
+    <string name="title">GROCERY QUIZ</string>
+    <string name="action_settings">Settings</string>
+</resources>

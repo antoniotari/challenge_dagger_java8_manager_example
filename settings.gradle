@@ -1,0 +1,4 @@
+include ':app'
+include ':DigiJedi'
+
+project(':DigiJedi').projectDir = new File('DigiJedi/library')

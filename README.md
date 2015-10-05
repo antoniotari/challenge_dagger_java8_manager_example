@@ -7,4 +7,4 @@ The app is a quiz where the questions and the answers are randomized at every st
 The json file is stored inside the asset folder, the parse the file I use a factory method inside the Questions class that creates modules that make sense for the app. <br>
 The questions of the quiz are handled by a questions manager that takes care of giving the user the "next question", and also has a method to save and recover the state when the activity gets destroyed and created.<br>
 I use butterknife to inject the views and dagger for dependency injection.<br><br>
-ps.The reading and parsing of the json is done on the UI thread (wrong!!), sorry about that, I was focusing on other stuff, and ran out of time
+ps.The reading and parsing of the json is done on the UI thread (wrong!!), you can inject the observable, subscribe to it and it will give you the Questions object onNext, the subscription is done in the background while the result is observed on the UI thread, this is the preferred way to do it but I ran out of time
